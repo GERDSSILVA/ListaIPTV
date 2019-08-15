@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_1
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1,Rede_tv
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1310038832.m3u8
 #EXTINF:-1,iptvtools_2
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,iptvtools_3
